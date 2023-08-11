@@ -10,7 +10,7 @@ public class EmployeeController {
 
 	@GetMapping("/info")
 	public String ApiInfo() {
-		return "API is Running";
+		return "API is Running"; 
 	}
 }
  
